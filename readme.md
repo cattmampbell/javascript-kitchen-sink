@@ -10,8 +10,8 @@
 06. Write some code so that if your name starts with a letter after L, you display an alert that says "Back of the line!". Otherwise, you should display an alert that says "Next!". 
   
 ### Hint: 
-* Check out ASCII codes [here](https://ascii.cl)...
-* And the charCodeAt() function built into strings in JavaScript  [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt )...
+* [Check out ASCII codes.](https://ascii.cl)
+* [And check out the charCodeAt() function built into strings in JavaScript.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt)
 
 07. Add comments to your code to document its functionality.
 08. Write a function called sayHello that displays an alert that says Hello World!
